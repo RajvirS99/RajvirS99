@@ -14,10 +14,10 @@
 
 ### My Social Profiles
 
-<img src="./icons/instagram.svg" style="margin-right: 15px" width="25px" />
-<img src="./icons/linkedin.svg" style="margin-right: 8px" width="25px" />
-<img src="./icons/twitter.svg" style="margin-right: 8px" width="38px" />
-<img src="./icons/youtube.svg" style="margin-right: 15px" width="25px" />
+<img src="./icons/instagram.svg" align="left" style="margin-right: 15px" width="25px" />
+<img src="./icons/linkedin.svg" align="left" style="margin-right: 8px" width="25px" />
+<img src="./icons/twitter.svg" align="left" style="margin-right: 8px" width="38px" />
+<img src="./icons/youtube.svg" align="left" style="margin-right: 15px" width="25px" />
 
 <br />
 
