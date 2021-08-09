@@ -19,7 +19,7 @@
 <img src="./icons/twitter.svg" align="left" style="margin-right: 8px" width="38px" />
 <img src="./icons/youtube.svg" align="left" style="margin-right: 15px" width="25px" />
 
-<br />
+<br /> <br />
 
 ### My Experiences and Skills
 
