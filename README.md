@@ -14,10 +14,10 @@
 
 ### My Social Profiles
 
-<a href="https://www.instagram.com/rajvirsingh.99/"><img src="./icons/instagram.svg" style="margin-right: 15px" width="25px" /></a>
-<a href="linkedin.com/in/rajvir-s-6a86a2115"><img src="./icons/linkedin.svg" style="margin-right: 8px" width="25px" /></a>
-<a href="https://twitter.com/rajvirsingh_99" ><img src="./icons/twitter.svg" style="margin-right: 8px" width="38px" /></a>
-<a href="https://www.youtube.com/channel/UCiqNZRLlzE0I7SYyU_i87Tg"><img src="./icons/youtube.svg" style="margin-right: 15px" width="25px" /></a>
+<img src="./icons/instagram.svg" style="margin-right: 15px" width="25px" />
+<img src="./icons/linkedin.svg" style="margin-right: 8px" width="25px" />
+<img src="./icons/twitter.svg" style="margin-right: 8px" width="38px" />
+<img src="./icons/youtube.svg" style="margin-right: 15px" width="25px" />
 
 <br />
 
