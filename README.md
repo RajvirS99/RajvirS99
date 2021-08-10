@@ -7,8 +7,8 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently a Frontend Developer, experienced with react.
-- 🌱 Curious about technologies so, on the way to learn new technologies.
-- :sunglasses: Love to collaborate, contribute and share knowledge with community.
+- 🌱 I'm curious about technologies so, on the way to learn new technologies.
+- :sunglasses: I Love to collaborate, contribute and share knowledge with community.
 
 <br>
 
