@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently a Frontend Developer, experienced with react.
 - 🌱 I'm curious about technologies so, on the way to learn new technologies.
-- :sunglasses: I Love to collaborate, contribute and share knowledge with community.
+- :sunglasses: I love to collaborate, contribute and share knowledge with community.
 
 <br>
 
